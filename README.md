@@ -1,17 +1,20 @@
-# Bradesco Agro - Exploratory Analysis
+# Measurement Unit Converter
 ![Language](https://img.shields.io/badge/language-Python-orange)
-![Repo Version](https://img.shields.io/badge/version-v0.1-blue)
+![Repo Version](https://img.shields.io/badge/version-v1.1-blue)
 
 ## 📜 Summary
 This repository is dedicated to the corverter
 
 ## 🛠️ Fixes and improvements
 The project is being developed, and the next necessary updates are:
-- [ ] Add first features;
-- [ ] Test the features;
-- [ ] Docstring everything that had been created;
-    - [ ] Track the features;
-    - [ ] Docstring them;
+- [x] Add first features;
+- [x] Test the features;
+- [x] Docstring everything that had been created;
+    - [x] Track the features;
+    - [x] Docstring them;
+- [ ] Add new buches product's references
+- [ ] Add new currencies
+
 
 ---
 ## 💻 Prerequisites
